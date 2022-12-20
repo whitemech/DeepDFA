@@ -36,7 +36,7 @@ To learn the Tomita languages from data execute the script with default paramete
 ```
 python do_experiments.py
 ```
-To learn the random DFAs in the diractory `random_DFAs` run 
+To learn the random DFAs in the directory `random_DFAs` run 
 ```
  python do_experiments.py --dataset_dir datasets_random_dfa/ --experiment random_dfa
 ```
