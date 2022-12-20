@@ -1,0 +1,650 @@
+###################
+random_dfa_S=10_A=2_N=0
+train set of size: 3267, of which positive 1577
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=10_A=2_N=1
+train set of size: 3511, of which positive 1755
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=10_A=2_N=2
+train set of size: 3159, of which positive 1638
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=10_A=2_N=3
+train set of size: 3367, of which positive 1725
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=10_A=2_N=4
+train set of size: 3403, of which positive 1658
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=10_A=3_N=0
+train set of size: 4172, of which positive 2066
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=10_A=3_N=1
+train set of size: 4240, of which positive 2092
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=10_A=3_N=2
+train set of size: 4227, of which positive 2138
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=10_A=3_N=3
+train set of size: 4264, of which positive 2140
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=10_A=3_N=4
+train set of size: 4190, of which positive 2121
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=11_A=2_N=0
+train set of size: 3481, of which positive 1711
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=11_A=2_N=1
+train set of size: 2160, of which positive 1081
+train set of size: 180, of which positive 100
+train set of size: 136, of which positive 78
+###################
+random_dfa_S=11_A=2_N=2
+train set of size: 3329, of which positive 1612
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=11_A=2_N=3
+train set of size: 3487, of which positive 1713
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=11_A=2_N=4
+train set of size: 3395, of which positive 1743
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=11_A=3_N=0
+train set of size: 1885, of which positive 778
+train set of size: 170, of which positive 75
+train set of size: 122, of which positive 51
+###################
+random_dfa_S=11_A=3_N=1
+train set of size: 4146, of which positive 2104
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=11_A=3_N=2
+train set of size: 4216, of which positive 2134
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=11_A=3_N=3
+train set of size: 4134, of which positive 2098
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=11_A=3_N=4
+train set of size: 4077, of which positive 1998
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=12_A=2_N=0
+train set of size: 3511, of which positive 1769
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=12_A=2_N=1
+train set of size: 3507, of which positive 1769
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=12_A=2_N=2
+train set of size: 3272, of which positive 1683
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=12_A=2_N=3
+train set of size: 3511, of which positive 1753
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=12_A=2_N=4
+train set of size: 3465, of which positive 1696
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=12_A=3_N=0
+train set of size: 4210, of which positive 2079
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=12_A=3_N=1
+train set of size: 4217, of which positive 2132
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=12_A=3_N=2
+train set of size: 4247, of which positive 2104
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=12_A=3_N=3
+train set of size: 4212, of which positive 2133
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=12_A=3_N=4
+train set of size: 4180, of which positive 2063
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=13_A=2_N=0
+train set of size: 3287, of which positive 1699
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=13_A=2_N=1
+train set of size: 3471, of which positive 1770
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=13_A=2_N=2
+train set of size: 3439, of which positive 1681
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=13_A=2_N=3
+train set of size: 3479, of which positive 1712
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=13_A=2_N=4
+train set of size: 3489, of which positive 1778
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=13_A=3_N=0
+train set of size: 3989, of which positive 2060
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=13_A=3_N=1
+train set of size: 4206, of which positive 2129
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=13_A=3_N=2
+train set of size: 4222, of which positive 2136
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=13_A=3_N=3
+train set of size: 4264, of which positive 2132
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=13_A=3_N=4
+train set of size: 4188, of which positive 2070
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=14_A=2_N=0
+train set of size: 3407, of which positive 1733
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=14_A=2_N=1
+train set of size: 3337, of which positive 1616
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=14_A=2_N=2
+train set of size: 3511, of which positive 1729
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=14_A=2_N=3
+train set of size: 3481, of which positive 1716
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=14_A=2_N=4
+train set of size: 3385, of which positive 1643
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=14_A=3_N=0
+train set of size: 4170, of which positive 2056
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=14_A=3_N=1
+train set of size: 4170, of which positive 2058
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=14_A=3_N=2
+train set of size: 4218, of which positive 2135
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=14_A=3_N=3
+train set of size: 4174, of which positive 2057
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=14_A=3_N=4
+train set of size: 4245, of which positive 2140
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=15_A=2_N=0
+train set of size: 311, of which positive 311
+train set of size: 20, of which positive 20
+train set of size: 20, of which positive 20
+###################
+random_dfa_S=15_A=2_N=1
+train set of size: 3511, of which positive 1776
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=15_A=2_N=2
+train set of size: 3402, of which positive 1749
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=15_A=2_N=3
+train set of size: 3483, of which positive 1774
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=15_A=2_N=4
+train set of size: 3481, of which positive 1768
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=15_A=3_N=0
+train set of size: 4219, of which positive 2087
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=15_A=3_N=1
+train set of size: 4249, of which positive 2111
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=15_A=3_N=2
+train set of size: 4152, of which positive 2044
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=15_A=3_N=3
+train set of size: 4235, of which positive 2097
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=15_A=3_N=4
+train set of size: 4264, of which positive 2141
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=16_A=2_N=0
+train set of size: 3491, of which positive 1783
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=16_A=2_N=1
+train set of size: 3389, of which positive 1650
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=16_A=2_N=2
+train set of size: 3481, of which positive 1700
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=16_A=2_N=3
+train set of size: 3473, of which positive 1709
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=16_A=2_N=4
+train set of size: 3379, of which positive 1649
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=16_A=3_N=0
+train set of size: 4214, of which positive 2080
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=16_A=3_N=1
+train set of size: 4261, of which positive 2116
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=16_A=3_N=2
+train set of size: 4264, of which positive 2127
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=16_A=3_N=3
+train set of size: 4264, of which positive 2133
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=16_A=3_N=4
+train set of size: 4188, of which positive 2068
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=17_A=2_N=0
+train set of size: 3477, of which positive 1771
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=17_A=2_N=1
+train set of size: 3459, of which positive 1691
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=17_A=2_N=2
+train set of size: 3317, of which positive 1720
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=17_A=2_N=3
+train set of size: 3419, of which positive 1667
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=17_A=2_N=4
+train set of size: 3403, of which positive 1661
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=17_A=3_N=0
+train set of size: 4146, of which positive 2103
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=17_A=3_N=1
+train set of size: 4198, of which positive 2073
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=17_A=3_N=2
+train set of size: 4162, of which positive 2109
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=17_A=3_N=3
+train set of size: 4190, of which positive 2125
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=17_A=3_N=4
+train set of size: 2642, of which positive 1486
+train set of size: 194, of which positive 107
+train set of size: 230, of which positive 125
+###################
+random_dfa_S=18_A=2_N=0
+train set of size: 3511, of which positive 1734
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=18_A=2_N=1
+train set of size: 3467, of which positive 1763
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=18_A=2_N=2
+train set of size: 3431, of which positive 1679
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=18_A=2_N=3
+train set of size: 3431, of which positive 1760
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=18_A=2_N=4
+train set of size: 3421, of which positive 1754
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=18_A=3_N=0
+train set of size: 4210, of which positive 2130
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=18_A=3_N=1
+train set of size: 4264, of which positive 2136
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=18_A=3_N=2
+train set of size: 4264, of which positive 2115
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=18_A=3_N=3
+train set of size: 4184, of which positive 2121
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=18_A=3_N=4
+train set of size: 4264, of which positive 2116
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=19_A=2_N=0
+train set of size: 3495, of which positive 1753
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=19_A=2_N=1
+train set of size: 3501, of which positive 1771
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=19_A=2_N=2
+train set of size: 3449, of which positive 1695
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=19_A=2_N=3
+train set of size: 3469, of which positive 1700
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=19_A=2_N=4
+train set of size: 3511, of which positive 1735
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=19_A=3_N=0
+train set of size: 4257, of which positive 2138
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=19_A=3_N=1
+train set of size: 4215, of which positive 2089
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=19_A=3_N=2
+train set of size: 4198, of which positive 2071
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=19_A=3_N=3
+train set of size: 4231, of which positive 2094
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=19_A=3_N=4
+train set of size: 4264, of which positive 2112
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=20_A=2_N=0
+train set of size: 3405, of which positive 1660
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=20_A=2_N=1
+train set of size: 3487, of which positive 1719
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=20_A=2_N=2
+train set of size: 3423, of which positive 1673
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=20_A=2_N=3
+train set of size: 3473, of which positive 1769
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=20_A=2_N=4
+train set of size: 3503, of which positive 1772
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=20_A=3_N=0
+train set of size: 4221, of which positive 2085
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=20_A=3_N=1
+train set of size: 4229, of which positive 2090
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=20_A=3_N=2
+train set of size: 4229, of which positive 2135
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=20_A=3_N=3
+train set of size: 4170, of which positive 2112
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=20_A=3_N=4
+train set of size: 4196, of which positive 2126
+train set of size: 300, of which positive 150
+train set of size: 300, of which positive 150
+###################
+random_dfa_S=30_A=2_N=0
+train set of size: 12811, of which positive 6395, len strings=[1,50]
+dev set of size: 300, of which positive 150,  len strings=100
+test set of size: 300, of which positive 150,  len strings=150
+###################
+random_dfa_S=30_A=2_N=1
+train set of size: 12811, of which positive 6395, len strings=[1,50]
+dev set of size: 300, of which positive 150,  len strings=100
+test set of size: 300, of which positive 150,  len strings=150
+###################
+random_dfa_S=30_A=2_N=2
+train set of size: 12807, of which positive 6375, len strings=[1,50]
+dev set of size: 300, of which positive 150,  len strings=100
+test set of size: 300, of which positive 150,  len strings=150
+###################
+random_dfa_S=30_A=2_N=3
+train set of size: 12783, of which positive 6360, len strings=[1,50]
+dev set of size: 300, of which positive 150,  len strings=100
+test set of size: 300, of which positive 150,  len strings=150
+###################
+random_dfa_S=30_A=2_N=4
+train set of size: 12811, of which positive 6408, len strings=[1,50]
+dev set of size: 300, of which positive 150,  len strings=100
+test set of size: 300, of which positive 150,  len strings=150
+###################
+random_dfa_S=30_A=3_N=0
+train set of size: 13557, of which positive 6790, len strings=[1,50]
+dev set of size: 300, of which positive 150,  len strings=100
+test set of size: 300, of which positive 150,  len strings=150
+###################
+random_dfa_S=30_A=3_N=1
+train set of size: 13454, of which positive 6702, len strings=[1,50]
+dev set of size: 300, of which positive 150,  len strings=100
+test set of size: 300, of which positive 150,  len strings=150
+###################
+random_dfa_S=30_A=3_N=2
+train set of size: 13537, of which positive 6756, len strings=[1,50]
+dev set of size: 300, of which positive 150,  len strings=100
+test set of size: 300, of which positive 150,  len strings=150
+###################
+random_dfa_S=30_A=3_N=3
+train set of size: 13506, of which positive 6781, len strings=[1,50]
+dev set of size: 300, of which positive 150,  len strings=100
+test set of size: 300, of which positive 150,  len strings=150
+###################
+random_dfa_S=30_A=3_N=4
+train set of size: 13526, of which positive 6786, len strings=[1,50]
+dev set of size: 300, of which positive 150,  len strings=100
+test set of size: 300, of which positive 150,  len strings=150
+###################
+random_dfa_S=40_A=2_N=0
+train set of size: 12734, of which positive 6411, len strings=[1,50]
+dev set of size: 300, of which positive 150,  len strings=100
+test set of size: 300, of which positive 150,  len strings=150
+###################
+random_dfa_S=40_A=2_N=1
+train set of size: 12777, of which positive 6357, len strings=[1,50]
+dev set of size: 300, of which positive 150,  len strings=100
+test set of size: 300, of which positive 150,  len strings=150
+###################
+random_dfa_S=40_A=2_N=2
+train set of size: 12723, of which positive 6404, len strings=[1,50]
+dev set of size: 300, of which positive 150,  len strings=100
+test set of size: 300, of which positive 150,  len strings=150
+###################
+random_dfa_S=40_A=2_N=3
+train set of size: 12549, of which positive 6221, len strings=[1,50]
+dev set of size: 300, of which positive 150,  len strings=100
+test set of size: 300, of which positive 150,  len strings=150
+###################
+random_dfa_S=40_A=2_N=4
+train set of size: 12741, of which positive 6331, len strings=[1,50]
+dev set of size: 300, of which positive 150,  len strings=100
+test set of size: 300, of which positive 150,  len strings=150
+###################
+random_dfa_S=40_A=3_N=0
+train set of size: 13564, of which positive 6764, len strings=[1,50]
+dev set of size: 300, of which positive 150,  len strings=100
+test set of size: 300, of which positive 150,  len strings=150
+###################
+random_dfa_S=40_A=3_N=1
+train set of size: 13514, of which positive 6732, len strings=[1,50]
+dev set of size: 300, of which positive 150,  len strings=100
+test set of size: 300, of which positive 150,  len strings=150
+###################
+random_dfa_S=40_A=3_N=2
+train set of size: 13534, of which positive 6743, len strings=[1,50]
+dev set of size: 300, of which positive 150,  len strings=100
+test set of size: 300, of which positive 150,  len strings=150
+###################
+random_dfa_S=40_A=3_N=3
+train set of size: 13543, of which positive 6787, len strings=[1,50]
+dev set of size: 300, of which positive 150,  len strings=100
+test set of size: 300, of which positive 150,  len strings=150
+###################
+random_dfa_S=40_A=3_N=4
+train set of size: 13520, of which positive 6733, len strings=[1,50]
+dev set of size: 300, of which positive 150,  len strings=100
+test set of size: 300, of which positive 150,  len strings=150
