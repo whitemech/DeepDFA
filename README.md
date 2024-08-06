@@ -1,5 +1,5 @@
 # DeepDFA
-Official repository for the paper "DeepDFA: Automata Learning through Neural Probabilistic Relaxations" accepted by the 27th European Conference on Artificial Intelligence (ECAI 2024)
+Official repository for the paper "DeepDFA: Automata Learning through Neural Probabilistic Relaxations" accepted by the 27th European Conference on Artificial Intelligence (ECAI 2024).
 
 ## Requirements
 - Pythomata
