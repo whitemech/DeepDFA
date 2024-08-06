@@ -1,5 +1,5 @@
 # DeepDFA
-Official repository for the paper "DeepDFA: a transparent neural network design for DFA induction" under review for the 20th International Conference on Principles of Knowledge Representation and Reasoning (KR2023)
+Official repository for the paper "DeepDFA: Automata Learning through Neural Probabilistic Relaxations" accepted by the 27th European Conference on Artificial Intelligence (ECAI 2024)
 
 ## Requirements
 - Pythomata
